@@ -1,4 +1,4 @@
-# hesap_beta
+# calculator_flutter_second_method 
 
 A new Flutter project.
 
